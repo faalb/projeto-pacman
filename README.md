@@ -2,6 +2,7 @@
 
 Este é o repositório oficial do **Projeto Pacman ADS**, desenvolvido pela equipe **PacOne**
 
+
 ## Equipe de Desenvolvimento
 
 O Projeto Pacman ADS está sendo desenvolvido pela seguinte equipe:
@@ -10,6 +11,7 @@ O Projeto Pacman ADS está sendo desenvolvido pela seguinte equipe:
 2. Joyce Gabriela (Matrícula: 01584728)
 3. Lucas Silva (Matrícula: 01619475)
 4. Ana Paula (Matrícula: )
+
 
 ## Como Executar o Programa
 
