@@ -4,7 +4,7 @@ Este é o repositório oficial do **Projeto Pacman ADS**, desenvolvido pela equi
 
 ## Equipe de Desenvolvimento
 
-O Projeto Pacman ADS está sendo desenvolvido pela seguinte equipe:
+O Projeto Pacman ADS foi desenvolvido pela seguinte equipe:
 
 1. Francisco Anacleto (Matrícula: 01581194)
 2. Joyce Gabriela (Matrícula: 01584728)
