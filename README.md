@@ -15,7 +15,7 @@ O Projeto Pacman ADS está sendo desenvolvido pela seguinte equipe:
 
 Para executar o Projeto Pacman ADS, siga as instruções abaixo:
 
-1. Certifique-se de ter instalado o interpretador Python em sua máquina. Você pode baixá-lo em [python.org](https://www.python.org/downloads/).
+1. Certifique-se de ter instalado o interpretador Python em sua máquina. Você pode baixá-lo em [python.org](https://www.python.org/downloads/)
 
 2. Clone este repositório para o seu ambiente de desenvolvimento local usando o seguinte comando:
 
