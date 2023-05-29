@@ -20,7 +20,7 @@ Para executar o Projeto Pacman ADS, siga as instruções abaixo:
 2. Clone este repositório para o seu ambiente de desenvolvimento local usando o seguinte comando:
 
    ```
-   git clone https://github.com/seu-usuario/projeto-pacman-ads.git
+   git clone https://github.com/faalb/projeto-pacman.git
    ```
 
 3. Navegue até o diretório do projeto:
@@ -38,5 +38,5 @@ Para executar o Projeto Pacman ADS, siga as instruções abaixo:
 5. Agora você está pronto para executar o programa. Utilize o seguinte comando:
 
    ```
-   python main.py
+   python pacman.py
    ```
