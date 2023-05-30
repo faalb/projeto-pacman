@@ -9,7 +9,7 @@ O Projeto Pacman ADS foi desenvolvido pela seguinte equipe:
 1. Francisco Anacleto (Matrícula: 01581194)
 2. Joyce Gabriela (Matrícula: 01584728)
 3. Lucas Silva (Matrícula: 01619475)
-4. Ana Paula (Matrícula: )
+4. Ana Paula (Matrícula: 01549505 )
 
 ## Como Executar o Programa
 
