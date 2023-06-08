@@ -29,13 +29,7 @@ Para executar o Projeto Pacman ADS, siga as instruções abaixo:
    cd projeto-pacman
    ```
 
-4. Instale as dependências do projeto utilizando o gerenciador de pacotes pip:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-5. Agora você está pronto para executar o programa. Utilize o seguinte comando:
+4. Agora você está pronto para executar o programa. Utilize o seguinte comando:
 
    ```
    python pacman.py
