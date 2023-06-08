@@ -53,8 +53,8 @@ if __name__ == '__main__':
             winsound.Beep(440, 200)  
 
 
-    print("Pontos: {}".format(pontos))
-    print("\nNível: {}".format(nivel))
+        print("Pontos: {}".format(pontos))
+        print("\nNível: {}".format(nivel))
 
     while True:
         gerar_mapa()
