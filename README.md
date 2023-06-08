@@ -34,3 +34,8 @@ Para executar o Projeto Pacman ADS, siga as instruções abaixo:
    ```
    python pacman.py
    ```
+   ou 
+   
+   ```
+   start pacman.py
+   ```
