@@ -36,7 +36,8 @@ if __name__ == '__main__':
                 c += 1
             print()
             l += 1
-
+        print("Pontos: {}".format(pontos))
+        print("\nNível: {}".format(nivel))
 
     def movimentar_pacman():
         if pos_pacman[0] < pos_comida[0]:
@@ -51,10 +52,6 @@ if __name__ == '__main__':
         elif pos_pacman[1] > pos_comida[1]:
             pos_pacman[1] -= 1
             winsound.Beep(440, 200)  
-
-
-        print("Pontos: {}".format(pontos))
-        print("\nNível: {}".format(nivel))
 
     while True:
         gerar_mapa()
